@@ -40,8 +40,8 @@ A modern social media platform that allows users to create posts, form communiti
 Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/LeGabriel254/alx-project-nexus.git
-cd alx-project-nexus
+git clone https://github.com/owinogabriel/social-media.git
+cd social-media
 ```
 
 ### Installation
@@ -69,7 +69,7 @@ Start the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🕸️ Code Snippets
 
