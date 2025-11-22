@@ -1,4 +1,4 @@
-# Build a Modern Social Media Website
+# Build a Modern Social Media Website.
 
 A modern social media platform that allows users to create posts, form communities, and engage with content through likes and comments. Authentication is required for users to interact with posts.
 
