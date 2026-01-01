@@ -3,7 +3,7 @@
 A modern social media platform that allows users to create posts, form communities, and engage with content through likes and comments. Authentication is required for users to interact with posts.
 
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack:
 
 - **React** for building the user interface
 - **Vite** for fast development and build processes.
@@ -11,7 +11,7 @@ A modern social media platform that allows users to create posts, form communiti
 - **Supabase** for backend services including authentication, real-time data, and storage
 - **Tailwind CSS** for rapid and responsive styling
 
-## ⚡️ Features
+## ⚡️ Features:
 
 - **User Authentication via GitHub:**  
   Securely sign in with GitHub and display user avatars and usernames across the site.
