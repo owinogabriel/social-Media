@@ -35,7 +35,7 @@ A modern social media platform that allows users to create posts, form communiti
   All interactions (posting, voting, commenting) update in real time using Supabase and React Query.
 
 ---
-### Cloning the Repository
+### Cloning the Repository:
 
 Run the following commands in your terminal:
 
